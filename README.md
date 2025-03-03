@@ -1,8 +1,8 @@
 # TJV semestral work
 
 # Launch
-Client: https://gitlab.fit.cvut.cz/hyliavla/tjv_semestral_client  
-Server: https://gitlab.fit.cvut.cz/hyliavla/tjv_semestral
+Client: https://github.com/kavunchick/dota2-db-react-client
+Server: https://github.com/kavunchick/dota2-db-spring-boot
 ## 1.) Server
 Start postrgess DB on `localhost:5432/tjv` (username: tjv; password: tjv)  
 In "tjv_semestral" folder type `./gradlew bootRun`
